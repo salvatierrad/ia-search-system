@@ -1,0 +1,4 @@
+my_lancedb/
+venv/
+__pycache__/
+*.pyc
